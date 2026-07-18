@@ -1,5 +1,5 @@
 <h1 align="center">Hola yo soy 👋Juan Esteban Gueje</h1>
-<h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
+<h3 align="center">Passionate about software and web design, striving to become a better graphic designer and improve every day. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
