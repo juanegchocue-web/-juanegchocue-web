@@ -7,9 +7,9 @@
 
 -----
 
-:computer: **Software Engineer**  
-:eyeglasses: **Hardcore Geek (is geek still used?)**  
-:oncoming_automobile: **SpaceX, technology, and simulator fan**  
+:computer: **college student**  
+:eyeglasses: * grafic designer*(is geek still used? R// Yes, Professor, it is used.)**  
+:oncoming_automobile: **Fan of soccer, technology, and video games.**  
 
 <h3 https://png.pngtree.com/png-clipart/20190516/original/pngtree-whatsapp-icon-png-image_3584845.jpg">Connect with me:</h3>
 <p align="left">
