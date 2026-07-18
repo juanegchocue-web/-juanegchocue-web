@@ -11,7 +11,7 @@
 :eyeglasses: * grafic designer*(is geek still used? R// Yes, Professor, it is used.)**  
 :oncoming_automobile: **Fan of soccer, technology, and video games.**  
 
-<h3 https://png.pngtree.com/png-clipart/20190516/original/pngtree-whatsapp-icon-png-image_3584845.jpg">Connect with me:</h3>
+<h3 https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/WhatsApp_Logo_green.svg/250px-WhatsApp_Logo_green.svg.png </h3>
 <p align="left">
 <!-- <a href="https://dev.to/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandgo" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/juandago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandgo" height="30" width="40" /></a>
